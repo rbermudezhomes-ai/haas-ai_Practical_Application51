@@ -23,7 +23,9 @@ Berkeley Haas Practical Application Project [October 2025]
 
 - Drivers who go to bars more than once a month, had passengers that were not a kid, and were not widowed has a higher rate to accept the coupons compared to drivers who go to a cheap restaurant and makes less than 50k of income, and to drivers who go to bars more than once a month and under the age of 30.
   
-- **Drivers who have low acceptance rate to accept the coupons are from these groups:**
+- **Drivers who have low acceptance rate to accept the bar coupons are from these groups:**
 1. Drivers who frequently go to the bar more than 3 times a month.
 2. Drivers who go in a cheap restaurant and makes less than 50k income.
 3. Drivers who are under 25 years of age.
+
+- Male drivers under 32 of age with no 'kids' passenger tends to have higher acceptance rate of coffee house coupons compared to female drivers with no 'kids' passenger and who are over 32 of age.
