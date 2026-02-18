@@ -1,5 +1,5 @@
 # Will the Customer Accept the Coupon?
-Berkeley Haas Practical Application Project [October 9, 2025]
+**Berkeley Haas Practical Application Project** [October 9, 2025]
 
 ### Goal:
 - The goal is to seek an answer to the question, "Will a customer accept the coupon?" while driving and determine whether a driver is likely to accept a coupon or not, base on different driving scenarios. This also includes applying what we have learned on exploratory data analysis, data cleaning, statistical distribution, plotting, and data visualization skills.
